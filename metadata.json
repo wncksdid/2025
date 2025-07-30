@@ -1,5 +1,6 @@
 {
   "name": "8비트 학습 성향 진단 테스트",
   "description": "초등 여학생들을 위한 8비트 게임 스타일의 질문과 답변으로 사용자의 학습 성향을 파악하고 MBTI 기반의 학습 유형 결과를 제공하는 진단 검사 앱입니다.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
